@@ -1,4 +1,4 @@
-# 🏋️ Welcome to Fitness Management System Wiki
+# 🏋️ Welcome to Fitness Management System 
 
 This is the official documentation hub for **Fitness Management System** — a Java-based platform that connects **admins**, **instructors**, and **clients** to manage **fitness programs, subscriptions, and wellness tracking**.
 

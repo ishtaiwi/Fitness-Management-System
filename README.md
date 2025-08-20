@@ -6,7 +6,7 @@ This is the official documentation hub for **Fitness Management System** — a J
 
 ## Authors
 - Osama Ishtaiwi  
-- Jad Kawa  
+- Saif Shayep  
 
 ---
 
